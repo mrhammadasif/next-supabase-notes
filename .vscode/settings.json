@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "editorInlayHint.background": "#00000000",
+    "editorInlayHint.foreground": "#7e40a5",
+    "editorInlayHint.parameterBackground": "#00000000",
+    "editorInlayHint.parameterForeground": "#4e5980",
+    "tab.activeBackground": "#484367"
+  }
+}
